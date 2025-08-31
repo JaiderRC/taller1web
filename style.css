@@ -1,0 +1,38 @@
+h1{
+    color: blueviolet;
+}
+
+.container{
+    background-color: rgb(152, 211, 245);
+    padding: 20px;
+    height: 100vh;
+   font-size: 100px;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.section-header{
+    background-color: beige;
+    height: 13vh;
+}
+.container2{
+    height: 20vh;
+    margin-top: 20px;
+    border: solid black;
+    display: flex;
+}
+.container2 div{
+ background-color: white;
+}
+td{
+    background-color: white;
+}
+.container2 nav{
+
+}
+.container2 main{
+
+}
